@@ -1,0 +1,26 @@
+[project]
+name = "sokostats"
+version = "0.1.0"
+description = "Analysis of SokoBot benchmark runs (sokobench CSV files)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "matplotlib>=3.8",
+    "scipy>=1.13",
+    "seaborn>=0.12",
+]
+
+[project.optional-dependencies]
+notebook = ["jupyterlab>=4.2", "ipykernel>=6.29"]
+
+[project.scripts]
+crunch = "sokostats.cli:main"
+
+[build-system]
+requires = ["hatchling>=1.24"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/sokostats"]

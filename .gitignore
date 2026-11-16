@@ -1,0 +1,29 @@
+# C++ build output
+solvers/*/build/
+solvers/*/bin/
+*.o
+*.dSYM/
+*.dylib
+*.so
+*.dll
+
+# JavaScript
+node_modules/
+web/dist/
+
+.venv/
+__pycache__/
+
+# Local / generated
+*_sol.txt
+test_results/
+*.bak
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+
+# clangd
+compile_commands.json
+.cache/

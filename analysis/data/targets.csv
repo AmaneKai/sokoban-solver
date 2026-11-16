@@ -1,0 +1,193 @@
+map,result,time_ms,boxes,floor_cells,corridor_share,goal_room_share,t0_outcome,t1_outcome,t3_outcome,t4_outcome
+21-26_Sokoban-Sasquatch-VII-26,out of time,10086.4,14,97,0.3402061855670103,0.0,stopped,stopped,stopped,stopped
+20-14_Sokoban-Sasquatch-VI-14,out of time,10061.0,8,84,0.11904761904761904,0.0,stopped,stopped,stopped,pool_full
+23-8_Sokoban-Sasquatch-IX-8,out of time,10050.2,16,73,0.0958904109589041,0.0,stopped,stopped,stopped,stopped
+2-68_Sokoban-Boxxle-1-68,out of time,10045.7,15,84,0.07142857142857142,0.06666666666666667,stopped,stopped,stopped,stopped
+20-16_Sokoban-Sasquatch-VI-16,out of time,10043.4,16,75,0.13333333333333333,0.0,stopped,stopped,stopped,stopped
+49-38_Sokoban-Cosmac-4-38,out of time,10042.4,16,77,0.19480519480519481,0.0,stopped,stopped,stopped,stopped
+15-17_Sokoban-Sasquatch-17,out of time,10042.0,13,106,0.19811320754716982,0.0,stopped,stopped,stopped,stopped
+28-25_Sokoban-Microban-IV-25,out of time,10038.9,12,53,0.07547169811320754,0.0,stopped,stopped,stopped,stopped
+3-20_Sokoban-Boxxle-2-20,out of time,10038.0,13,92,0.17391304347826086,0.0,stopped,stopped,stopped,stopped
+16-33_Sokoban-Sasquatch-II-33,out of time,10037.5,13,100,0.26,0.0,stopped,stopped,stopped,stopped
+1-85_Sokoban-Original-and-Extra-85,out of time,10037.1,15,145,0.27586206896551724,0.0,stopped,stopped,stopped,stopped
+2-44_Sokoban-Boxxle-1-44,out of time,10035.9,15,73,0.0684931506849315,0.0,stopped,stopped,stopped,stopped
+51-51_Sokoban-Cosmac-6-51,out of time,10035.6,15,90,0.3,0.06666666666666667,stopped,stopped,stopped,stopped
+16-4_Sokoban-Sasquatch-II-4,out of time,10034.7,9,76,0.19736842105263158,0.0,stopped,stopped,stopped,stopped
+3-45_Sokoban-Boxxle-2-45,out of time,10034.5,13,74,0.17567567567567569,0.0,stopped,exhausted,stopped,stopped
+1-87_Sokoban-Original-and-Extra-87,out of time,10033.9,12,111,0.18018018018018017,0.0,stopped,stopped,stopped,stopped
+15-42_Sokoban-Sasquatch-42,out of time,10032.4,14,121,0.256198347107438,0.0,stopped,stopped,stopped,stopped
+1-15_Sokoban-Original-and-Extra-15,out of time,10032.1,15,104,0.10576923076923077,0.0,stopped,stopped,stopped,pool_full
+50-35_Sokoban-Cosmac-5-35,out of time,10031.4,15,72,0.19444444444444445,0.0,stopped,stopped,stopped,stopped
+3-62_Sokoban-Boxxle-2-62,out of time,10031.1,11,73,0.1780821917808219,0.0,stopped,stopped,stopped,stopped
+20-17_Sokoban-Sasquatch-VI-17,out of time,10031.0,15,117,0.3076923076923077,0.0,stopped,stopped,stopped,stopped
+21-23_Sokoban-Sasquatch-VII-23,out of time,10031.0,15,58,0.017241379310344827,0.0,stopped,stopped,stopped,stopped
+16-26_Sokoban-Sasquatch-II-26,out of time,10030.9,14,99,0.2222222222222222,0.0,stopped,stopped,stopped,stopped
+2-91_Sokoban-Boxxle-1-91,out of time,10030.5,12,70,0.18571428571428572,1.0,stopped,stopped,stopped,stopped
+49-27_Sokoban-Cosmac-4-27,out of time,10030.4,15,94,0.05319148936170213,0.06666666666666667,stopped,stopped,stopped,stopped
+23-15_Sokoban-Sasquatch-IX-15,out of time,10030.0,12,65,0.06153846153846154,0.0,stopped,stopped,stopped,stopped
+56-54_Sokoban-Serena1-54,out of time,10029.4,16,59,0.22033898305084745,0.0625,stopped,stopped,stopped,stopped
+11-7_Sokoban-The-Bagatelle-2-collection-7,out of time,10029.3,15,76,0.07894736842105263,0.0,stopped,exhausted,stopped,stopped
+2-42_Sokoban-Boxxle-1-42,out of time,10029.2,11,85,0.17647058823529413,1.0,stopped,stopped,stopped,pool_full
+2-43_Sokoban-Boxxle-1-43,out of time,10029.0,16,104,0.1346153846153846,1.0,stopped,stopped,stopped,stopped
+18-24_Sokoban-Sasquatch-IV-24,out of time,10028.9,10,71,0.15492957746478872,0.1,stopped,stopped,stopped,pool_full
+14-8_Sokoban-The-Maelstrom-collection-8,out of time,10028.7,13,69,0.15942028985507245,0.0,stopped,stopped,stopped,stopped
+44-100_Sokoban-Aruba10-100,out of time,10028.3,14,115,0.1565217391304348,0.0,stopped,stopped,stopped,stopped
+8-7_Sokoban-The-DH1-collection-7,out of time,10027.8,12,60,0.15,0.0,stopped,stopped,stopped,stopped
+60-13_Sokoban-Serena5-13,out of time,10027.5,15,134,0.3805970149253731,0.0,stopped,stopped,stopped,stopped
+2-103_Sokoban-Boxxle-1-103,out of time,10026.9,16,133,0.17293233082706766,0.0,stopped,exhausted,stopped,stopped
+63-38_Sokoban-Serena8-38,out of time,10026.7,15,77,0.12987012987012986,0.0,stopped,stopped,stopped,stopped
+14-3_Sokoban-The-Maelstrom-collection-3,out of time,10026.3,12,77,0.11688311688311688,0.0,stopped,stopped,stopped,stopped
+2-85_Sokoban-Boxxle-1-85,out of time,10026.0,15,105,0.10476190476190476,0.0,stopped,stopped,stopped,stopped
+1-32_Sokoban-Original-and-Extra-32,out of time,10025.8,15,73,0.0684931506849315,0.0,stopped,stopped,stopped,stopped
+2-55_Sokoban-Boxxle-1-55,out of time,10025.7,13,105,0.14285714285714285,0.0,stopped,exhausted,stopped,stopped
+57-30_Sokoban-Serena2-30,out of time,10025.6,16,90,0.16666666666666666,0.125,stopped,stopped,stopped,stopped
+15-30_Sokoban-Sasquatch-30,out of time,10025.3,13,97,0.12371134020618557,0.0,stopped,stopped,stopped,stopped
+3-18_Sokoban-Boxxle-2-18,out of time,10025.2,13,72,0.1527777777777778,0.0,stopped,stopped,stopped,stopped
+1-47_Sokoban-Original-and-Extra-47,out of time,10025.0,16,85,0.11764705882352941,0.0,stopped,exhausted,stopped,stopped
+1-72_Sokoban-Original-and-Extra-72,out of time,10024.9,16,132,0.10606060606060606,0.0,stopped,stopped,stopped,stopped
+2-69_Sokoban-Boxxle-1-69,out of time,10024.8,16,96,0.23958333333333334,1.0,stopped,exhausted,stopped,stopped
+2-61_Sokoban-Boxxle-1-61,out of time,10024.4,13,92,0.16304347826086957,0.0,stopped,stopped,stopped,stopped
+22-14_Sokoban-Sasquatch-VIII-14,out of time,10023.6,14,50,0.0,0.0,stopped,stopped,stopped,stopped
+16-13_Sokoban-Sasquatch-II-13,out of time,10023.5,16,113,0.2831858407079646,0.0,stopped,stopped,stopped,pool_full
+1-13_Sokoban-Original-and-Extra-13,out of time,10023.4,16,118,0.17796610169491525,0.0,stopped,exhausted,stopped,pool_full
+2-98_Sokoban-Boxxle-1-98,out of time,10023.1,14,97,0.20618556701030927,0.0,stopped,stopped,stopped,stopped
+8-5_Sokoban-The-DH1-collection-5,out of time,10022.8,16,93,0.1827956989247312,0.0,stopped,stopped,stopped,stopped
+16-45_Sokoban-Sasquatch-II-45,out of time,10022.0,10,96,0.07291666666666667,0.0,stopped,stopped,stopped,stopped
+22-17_Sokoban-Sasquatch-VIII-17,out of time,10022.0,9,96,0.17708333333333334,0.8888888888888888,stopped,stopped,stopped,pool_full
+17-33_Sokoban-Sasquatch-III-33,out of time,10021.7,14,131,0.3053435114503817,0.0,stopped,stopped,stopped,stopped
+60-31_Sokoban-Serena5-31,out of time,10021.4,16,139,0.31654676258992803,0.0,stopped,stopped,stopped,stopped
+21-27_Sokoban-Sasquatch-VII-27,out of time,10020.7,12,82,0.34146341463414637,0.0,stopped,stopped,stopped,stopped
+1-21_Sokoban-Original-and-Extra-21,out of time,10020.6,13,94,0.19148936170212766,0.9230769230769231,stopped,stopped,stopped,stopped
+16-11_Sokoban-Sasquatch-II-11,out of time,10020.2,14,109,0.12844036697247707,0.0,stopped,exhausted,stopped,stopped
+18-42_Sokoban-Sasquatch-IV-42,out of time,10019.6,15,112,0.17857142857142858,0.0,stopped,stopped,stopped,stopped
+17-2_Sokoban-Sasquatch-III-2,out of time,10019.5,12,57,0.05263157894736842,0.0,stopped,stopped,stopped,stopped
+45-83_Sokoban-Atlas01-83,out of time,10019.4,12,73,0.0410958904109589,0.0,stopped,stopped,stopped,stopped
+44-84_Sokoban-Aruba10-84,out of time,10019.2,14,56,0.0,0.0,stopped,stopped,stopped,stopped
+9-10_Sokoban-The-DH2-collection-10,out of time,10019.2,15,120,0.3,0.0,stopped,stopped,stopped,stopped
+2-39_Sokoban-Boxxle-1-39,out of time,10019.1,15,90,0.08888888888888889,1.0,stopped,exhausted,stopped,stopped
+19-19_Sokoban-Sasquatch-V-19,out of time,10018.7,14,92,0.25,0.0,stopped,stopped,stopped,stopped
+29-13_Sokoban-Yoshio-Murase's-HandMade-13,out of time,10018.6,16,78,0.0641025641025641,0.0,stopped,stopped,stopped,stopped
+56-70_Sokoban-Serena1-70,out of time,10018.6,15,124,0.2661290322580645,0.06666666666666667,stopped,stopped,stopped,stopped
+16-6_Sokoban-Sasquatch-II-6,out of time,10018.5,15,111,0.13513513513513514,0.0,stopped,stopped,stopped,stopped
+51-14_Sokoban-Cosmac-6-14,out of time,10018.1,13,58,0.22413793103448276,0.0,stopped,stopped,stopped,stopped
+3-103_Sokoban-Boxxle-2-103,out of time,10018.0,14,74,0.0945945945945946,0.0,stopped,stopped,stopped,stopped
+1-46_Sokoban-Original-and-Extra-46,out of time,10017.9,14,97,0.20618556701030927,0.0,stopped,stopped,stopped,stopped
+16-10_Sokoban-Sasquatch-II-10,out of time,10017.9,15,139,0.2517985611510791,0.06666666666666667,stopped,stopped,stopped,stopped
+15-36_Sokoban-Sasquatch-36,out of time,10017.8,15,148,0.12837837837837837,0.0,stopped,stopped,stopped,stopped
+59-17_Sokoban-Serena4-17,out of time,10017.8,15,122,0.19672131147540983,0.0,stopped,stopped,stopped,stopped
+1-74_Sokoban-Original-and-Extra-74,out of time,10017.7,16,126,0.12698412698412698,0.0,stopped,stopped,stopped,stopped
+2-38_Sokoban-Boxxle-1-38,out of time,10017.6,15,93,0.0967741935483871,0.06666666666666667,stopped,exhausted,stopped,stopped
+49-6_Sokoban-Cosmac-4-6,out of time,10017.6,16,132,0.25,0.0,stopped,stopped,stopped,stopped
+55-45_Sokoban-Cosmac-10-45,out of time,10017.6,15,92,0.29347826086956524,0.0,stopped,stopped,stopped,stopped
+18-41_Sokoban-Sasquatch-IV-41,out of time,10017.5,16,116,0.4051724137931034,0.0,stopped,stopped,stopped,stopped
+3-96_Sokoban-Boxxle-2-96,out of time,10017.5,15,79,0.11392405063291139,0.0,stopped,stopped,stopped,stopped
+1-16_Sokoban-Original-and-Extra-16,out of time,10017.4,15,81,0.09876543209876543,0.0,stopped,stopped,stopped,stopped
+2-54_Sokoban-Boxxle-1-54,out of time,10017.4,13,94,0.19148936170212766,0.9230769230769231,stopped,stopped,stopped,stopped
+3-10_Sokoban-Boxxle-2-10,out of time,10017.4,10,72,0.2222222222222222,1.0,stopped,stopped,stopped,stopped
+49-85_Sokoban-Cosmac-4-85,out of time,10017.4,16,80,0.1,1.0,stopped,stopped,stopped,stopped
+49-65_Sokoban-Cosmac-4-65,out of time,10017.1,14,64,0.140625,0.35714285714285715,stopped,stopped,stopped,stopped
+15-12_Sokoban-Sasquatch-12,out of time,10016.7,15,99,0.18181818181818182,0.06666666666666667,stopped,stopped,stopped,stopped
+10-3_Sokoban-The-Bagatelle-collection-3,out of time,10016.5,11,97,0.3402061855670103,0.0,stopped,stopped,stopped,stopped
+3-92_Sokoban-Boxxle-2-92,out of time,10016.5,16,85,0.07058823529411765,0.0,stopped,stopped,stopped,stopped
+55-46_Sokoban-Cosmac-10-46,out of time,10016.5,15,64,0.171875,0.0,stopped,stopped,stopped,stopped
+3-42_Sokoban-Boxxle-2-42,out of time,10016.4,16,105,0.17142857142857143,0.0,stopped,stopped,stopped,stopped
+32-49_Sokoban-Alberto-Garcia-2-49,out of time,10016.3,13,239,0.24686192468619247,0.0,stopped,stopped,stopped,stopped
+3-49_Sokoban-Boxxle-2-49,out of time,10016.3,16,69,0.14492753623188406,0.0,stopped,stopped,stopped,stopped
+51-11_Sokoban-Cosmac-6-11,out of time,10016.3,15,135,0.3111111111111111,0.0,stopped,stopped,stopped,stopped
+15-48_Sokoban-Sasquatch-48,out of time,10016.2,15,174,0.19540229885057472,0.0,exhausted,exhausted,exhausted,stopped
+2-67_Sokoban-Boxxle-1-67,out of time,10016.2,16,79,0.12658227848101267,0.0,stopped,stopped,stopped,stopped
+51-31_Sokoban-Cosmac-6-31,out of time,10016.2,10,74,0.17567567567567569,0.0,stopped,stopped,stopped,stopped
+2-78_Sokoban-Boxxle-1-78,out of time,10016.0,15,81,0.09876543209876543,0.0,stopped,stopped,stopped,stopped
+42-10_Sokoban-Aruba8-10,out of time,10016.0,15,93,0.3548387096774194,0.13333333333333333,stopped,exhausted,stopped,stopped
+16-24_Sokoban-Sasquatch-II-24,out of time,10015.9,14,121,0.30578512396694213,0.0,stopped,stopped,stopped,pool_full
+24-30_Sokoban-Sasquatch-X-30,out of time,10015.8,12,144,0.2708333333333333,0.0,stopped,stopped,stopped,pool_full
+1-18_Sokoban-Original-and-Extra-18,out of time,10015.6,11,105,0.21904761904761905,0.0,stopped,stopped,stopped,stopped
+1-41_Sokoban-Original-and-Extra-41,out of time,10015.4,15,94,0.24468085106382978,1.0,stopped,exhausted,stopped,stopped
+19-26_Sokoban-Sasquatch-V-26,out of time,10015.4,13,130,0.14615384615384616,0.0,stopped,stopped,stopped,stopped
+19-46_Sokoban-Sasquatch-V-46,out of time,10015.4,16,192,0.3541666666666667,0.0,exhausted,exhausted,exhausted,stopped
+2-100_Sokoban-Boxxle-1-100,out of time,10015.3,16,85,0.11764705882352941,0.0,stopped,exhausted,stopped,stopped
+21-3_Sokoban-Sasquatch-VII-3,out of time,10015.1,13,55,0.0,0.0,stopped,exhausted,stopped,stopped
+3-111_Sokoban-Boxxle-2-111,out of time,10015.0,9,56,0.25,0.0,stopped,stopped,stopped,stopped
+1-44_Sokoban-Original-and-Extra-44,out of time,10014.9,9,95,0.3263157894736842,0.0,stopped,exhausted,stopped,stopped
+2-73_Sokoban-Boxxle-1-73,out of time,10014.9,11,111,0.1891891891891892,0.0,stopped,stopped,stopped,stopped
+16-42_Sokoban-Sasquatch-II-42,out of time,10014.7,13,148,0.3310810810810811,0.0,stopped,stopped,stopped,stopped
+1-33_Sokoban-Original-and-Extra-33,out of time,10014.6,15,93,0.0967741935483871,0.06666666666666667,stopped,exhausted,stopped,stopped
+1-50_Sokoban-Original-and-Extra-50,out of time,10014.5,16,134,0.15671641791044777,0.0,stopped,exhausted,stopped,stopped
+1-49_Sokoban-Original-and-Extra-49,out of time,10014.2,12,81,0.20987654320987653,0.0,stopped,exhausted,stopped,pool_full
+2-87_Sokoban-Boxxle-1-87,out of time,10013.7,9,95,0.3263157894736842,0.0,stopped,exhausted,stopped,stopped
+16-30_Sokoban-Sasquatch-II-30,out of time,10012.7,7,91,0.37362637362637363,0.7142857142857143,exhausted,exhausted,exhausted,stopped
+17-39_Sokoban-Sasquatch-III-39,out of time,10012.3,11,128,0.40625,0.45454545454545453,exhausted,exhausted,exhausted,stopped
+18-43_Sokoban-Sasquatch-IV-43,out of time,10012.2,13,160,0.25,0.0,stopped,exhausted,stopped,stopped
+3-94_Sokoban-Boxxle-2-94,out of memory,7664.4,9,63,0.09523809523809523,1.0,exhausted,exhausted,exhausted,pool_full
+15-32_Sokoban-Sasquatch-32,solved,9980.4,14,116,0.16379310344827586,1.0,stopped,solved,stopped,pool_full
+2-104_Sokoban-Boxxle-1-104,solved,8927.5,16,107,0.17757009345794392,0.0,stopped,stopped,stopped,solved
+18-22_Sokoban-Sasquatch-IV-22,solved,8295.8,9,65,0.06153846153846154,0.0,stopped,solved,stopped,stopped
+45-72_Sokoban-Atlas01-72,solved,8284.7,15,57,0.05263157894736842,0.06666666666666667,stopped,solved,stopped,stopped
+22-21_Sokoban-Sasquatch-VIII-21,solved,6457.0,14,63,0.2222222222222222,0.0,stopped,stopped,stopped,solved
+33-4_Sokoban-Alberto-Garcia-3-4,solved,6257.1,13,226,0.11504424778761062,0.07692307692307693,stopped,stopped,stopped,solved
+1-29_Sokoban-Original-and-Extra-29,solved,5785.0,16,107,0.17757009345794392,0.0,stopped,stopped,stopped,solved
+2-70_Sokoban-Boxxle-1-70,solved,5676.6,13,89,0.2247191011235955,0.0,stopped,stopped,stopped,solved
+2-66_Sokoban-Boxxle-1-66,solved,5513.7,12,81,0.20987654320987653,0.0,solved,exhausted,stopped,stopped
+10-9_Sokoban-The-Bagatelle-collection-9,solved,5510.5,14,79,0.21518987341772153,0.0,stopped,stopped,stopped,solved
+11-10_Sokoban-The-Bagatelle-2-collection-10,solved,5452.0,12,85,0.32941176470588235,0.0,stopped,stopped,stopped,solved
+23-33_Sokoban-Sasquatch-IX-33,solved,5426.0,16,77,0.2077922077922078,0.0,stopped,stopped,solved,stopped
+62-20_Sokoban-Serena7-20,solved,5313.2,15,122,0.10655737704918032,0.06666666666666667,stopped,stopped,stopped,solved
+3-104_Sokoban-Boxxle-2-104,solved,5199.2,14,104,0.09615384615384616,0.0,stopped,stopped,stopped,solved
+41-16_Sokoban-Aruba7-16,solved,4973.5,14,73,0.2465753424657534,0.0,stopped,stopped,stopped,solved
+3-51_Sokoban-Boxxle-2-51,solved,4959.6,16,94,0.10638297872340426,0.0,stopped,stopped,stopped,solved
+14-5_Sokoban-The-Maelstrom-collection-5,solved,4775.5,9,71,0.2535211267605634,0.0,stopped,stopped,stopped,solved
+15-19_Sokoban-Sasquatch-19,solved,4753.8,9,99,0.36363636363636365,0.0,stopped,exhausted,solved,stopped
+32-42_Sokoban-Alberto-Garcia-2-42,solved,4744.4,10,108,0.25,0.0,stopped,solved,stopped,stopped
+54-48_Sokoban-Cosmac-9-48,solved,4707.7,14,75,0.08,0.0,stopped,solved,stopped,stopped
+32-17_Sokoban-Alberto-Garcia-2-17,solved,4585.5,14,261,0.23371647509578544,0.21428571428571427,stopped,solved,stopped,stopped
+1-57_Sokoban-Original-and-Extra-57,solved,4409.7,16,130,0.11538461538461539,0.0625,solved,stopped,stopped,stopped
+3-36_Sokoban-Boxxle-2-36,solved,4280.6,14,93,0.1935483870967742,0.0,stopped,solved,stopped,stopped
+16-7_Sokoban-Sasquatch-II-7,solved,4161.2,10,95,0.10526315789473684,0.0,stopped,exhausted,stopped,solved
+3-14_Sokoban-Boxxle-2-14,solved,4144.0,15,86,0.09302325581395349,0.0,stopped,stopped,stopped,solved
+16-23_Sokoban-Sasquatch-II-23,solved,4038.5,12,250,0.532,0.0,exhausted,exhausted,exhausted,solved
+58-2_Sokoban-Serena3-2,solved,3360.6,13,60,0.016666666666666666,0.0,solved,exhausted,stopped,stopped
+24-23_Sokoban-Sasquatch-X-23,solved,3190.7,14,58,0.10344827586206896,0.0,stopped,stopped,stopped,solved
+61-8_Sokoban-Serena6-8,solved,2884.1,16,93,0.06451612903225806,0.0,stopped,exhausted,stopped,solved
+11-3_Sokoban-The-Bagatelle-2-collection-3,solved,2873.8,8,60,0.25,0.0,exhausted,exhausted,exhausted,solved
+22-11_Sokoban-Sasquatch-VIII-11,solved,2696.9,16,60,0.06666666666666667,0.0,solved,stopped,stopped,stopped
+44-91_Sokoban-Aruba10-91,solved,2694.3,16,139,0.381294964028777,0.0,stopped,stopped,stopped,solved
+49-77_Sokoban-Cosmac-4-77,solved,2602.4,14,62,0.0967741935483871,0.07142857142857142,stopped,solved,stopped,stopped
+61-31_Sokoban-Serena6-31,solved,2594.2,14,106,0.24528301886792453,0.0,stopped,solved,stopped,stopped
+3-97_Sokoban-Boxxle-2-97,solved,2512.8,10,53,0.5283018867924528,0.0,stopped,stopped,stopped,solved
+3-19_Sokoban-Boxxle-2-19,solved,2507.5,13,86,0.09302325581395349,0.0,stopped,stopped,stopped,solved
+56-18_Sokoban-Serena1-18,solved,2493.1,13,104,0.22115384615384615,0.0,stopped,solved,stopped,stopped
+2-59_Sokoban-Boxxle-1-59,solved,2370.7,15,95,0.18947368421052632,1.0,solved,stopped,stopped,stopped
+1-68_Sokoban-Original-and-Extra-68,solved,2297.8,15,132,0.25,0.13333333333333333,solved,exhausted,stopped,stopped
+19-32_Sokoban-Sasquatch-V-32,solved,2257.5,12,59,0.2542372881355932,0.0,stopped,stopped,solved,stopped
+53-29_Sokoban-Cosmac-8-29,solved,2198.9,15,87,0.2413793103448276,0.4666666666666667,stopped,solved,stopped,stopped
+10-5_Sokoban-The-Bagatelle-collection-5,solved,2124.6,14,84,0.19047619047619047,0.0,stopped,stopped,stopped,solved
+44-12_Sokoban-Aruba10-12,solved,2114.2,15,62,0.03225806451612903,0.0,stopped,stopped,stopped,solved
+16-19_Sokoban-Sasquatch-II-19,solved,2084.9,9,89,0.4044943820224719,0.2222222222222222,solved,exhausted,stopped,stopped
+2-30_Sokoban-Boxxle-1-30,solved,2061.5,16,111,0.17117117117117117,1.0,stopped,solved,stopped,stopped
+51-29_Sokoban-Cosmac-6-29,solved,2026.4,16,63,0.1746031746031746,0.1875,stopped,solved,stopped,stopped
+13-9_Sokoban-The-Cantrip-2-collection-9,solved,2012.1,9,53,0.16981132075471697,0.0,stopped,stopped,stopped,solved
+27-47_Sokoban-Microban-III-47,solved,1876.4,12,85,0.2,0.0,stopped,stopped,stopped,solved
+3-89_Sokoban-Boxxle-2-89,solved,1761.3,9,67,0.23880597014925373,0.0,stopped,stopped,stopped,solved
+54-6_Sokoban-Cosmac-9-6,solved,1706.7,10,70,0.22857142857142856,0.0,stopped,solved,stopped,stopped
+63-7_Sokoban-Serena8-7,solved,1637.3,16,80,0.2125,0.4375,stopped,solved,stopped,stopped
+25-153_Sokoban-Microban-153,solved,1607.0,10,63,0.12698412698412698,0.6,stopped,solved,stopped,stopped
+50-57_Sokoban-Cosmac-5-57,solved,1602.1,15,65,0.07692307692307693,0.0,stopped,stopped,stopped,solved
+29-46_Sokoban-Yoshio-Murase's-HandMade-46,solved,1582.6,9,52,0.15384615384615385,0.0,exhausted,exhausted,exhausted,solved
+47-82_Sokoban-Cosmac-2-82,solved,1537.6,12,126,0.30158730158730157,0.25,stopped,stopped,stopped,solved
+3-34_Sokoban-Boxxle-2-34,solved,1498.6,11,71,0.15492957746478872,0.0,exhausted,exhausted,exhausted,solved
+55-26_Sokoban-Cosmac-10-26,solved,1408.9,11,74,0.35135135135135137,0.09090909090909091,stopped,solved,stopped,stopped
+3-81_Sokoban-Boxxle-2-81,solved,1402.1,16,106,0.19811320754716982,0.0,stopped,stopped,stopped,solved
+49-49_Sokoban-Cosmac-4-49,solved,1392.2,13,94,0.19148936170212766,0.0,stopped,exhausted,stopped,solved
+1-62_Sokoban-Original-and-Extra-62,solved,1361.2,16,126,0.25396825396825395,0.0625,solved,exhausted,stopped,stopped
+54-5_Sokoban-Cosmac-9-5,solved,1305.2,10,71,0.19718309859154928,0.0,stopped,solved,stopped,stopped
+29-41_Sokoban-Yoshio-Murase's-HandMade-41,solved,1221.4,14,63,0.30158730158730157,0.0,stopped,solved,stopped,stopped
+44-6_Sokoban-Aruba10-6,solved,1192.6,12,96,0.3229166666666667,0.0,stopped,solved,stopped,stopped
+3-90_Sokoban-Boxxle-2-90,solved,1181.1,11,86,0.11627906976744186,0.0,stopped,stopped,stopped,solved
+1-34_Sokoban-Original-and-Extra-34,solved,1173.4,14,93,0.15053763440860216,0.0,solved,exhausted,stopped,stopped
+22-26_Sokoban-Sasquatch-VIII-26,solved,1161.1,16,57,0.0,0.0,stopped,stopped,solved,stopped
+2-71_Sokoban-Boxxle-1-71,solved,1096.1,15,103,0.23300970873786409,0.0,stopped,stopped,stopped,solved
+49-13_Sokoban-Cosmac-4-13,solved,1090.2,10,90,0.5444444444444444,0.0,stopped,solved,stopped,stopped
+1-11_Sokoban-Original-and-Extra-11,solved,1086.9,14,93,0.16129032258064516,1.0,stopped,solved,stopped,stopped
+23-20_Sokoban-Sasquatch-IX-20,solved,1046.5,14,67,0.05970149253731343,0.0,stopped,stopped,stopped,solved
+64-22_Sokoban-Serena9-22,solved,1039.4,15,83,0.10843373493975904,0.0,stopped,stopped,stopped,solved
+2-41_Sokoban-Boxxle-1-41,solved,1034.0,14,93,0.15053763440860216,0.0,solved,exhausted,stopped,stopped

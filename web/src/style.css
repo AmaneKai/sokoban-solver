@@ -1,0 +1,102 @@
+@import 'tailwindcss';
+
+@theme static {
+  --color-bg: #191919;
+  --color-fg: #ffffffcf;
+  --color-dim: #ffffff71;
+  --color-line: #ffffff18;
+  --color-hover: #ffffff12;
+  --color-accent: #2383e2;
+  --color-good: #4dab9a;
+  --color-bad: #ff7369;
+  --color-expanded: #4caf7d;
+  --color-open: #7d8590;
+  --color-dropped: #ff7369;
+  --color-solution: #ffd166;
+  --color-map: #0d0f11;
+  --color-edge: #a0aab440;
+  --radius-sm: 2px;
+}
+
+/* shared looks, composable in markup and in @apply */
+@utility box {
+  @apply rounded-sm border border-line;
+}
+
+@utility field {
+  @apply box h-7 bg-transparent px-2;
+}
+
+@utility row-button {
+  @apply cursor-pointer rounded-sm text-left text-xs hover:bg-hover;
+}
+
+@utility heading {
+  @apply mb-1.5 text-xs font-medium text-dim;
+}
+
+@utility header-field {
+  @apply mr-1 flex items-center gap-1.5 text-[13px] whitespace-nowrap text-dim;
+}
+
+@utility page-header {
+  @apply flex min-h-11 flex-wrap items-center gap-1 border-b border-line px-4 py-1.5;
+}
+
+@utility sections {
+  @apply flex flex-col [&>section+section]:border-t [&>section+section]:border-line;
+}
+
+@utility label {
+  @apply mb-2 flex flex-col gap-1 text-dim;
+}
+
+@layer components {
+  .btn {
+    @apply h-7 cursor-pointer rounded-sm border border-transparent px-2;
+    @apply hover:enabled:bg-hover disabled:cursor-default disabled:opacity-40;
+  }
+  .btn-outline {
+    @apply border-line;
+  }
+  .btn-primary {
+    @apply bg-accent px-3.5 font-medium text-white hover:enabled:bg-accent hover:enabled:brightness-110;
+  }
+}
+
+@layer base {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    @apply bg-bg font-sans text-sm text-fg;
+  }
+  [data-tone] {
+    @apply text-dim;
+  }
+  [data-tone='ok'] {
+    @apply text-good;
+  }
+  [data-tone='bad'] {
+    @apply text-bad;
+  }
+  kbd {
+    @apply rounded-sm border border-line px-1 text-xs;
+  }
+  /* A transparent select makes its popup white, so the light text would vanish. */
+  option {
+    @apply bg-bg text-fg;
+  }
+  [hidden] {
+    display: none !important;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 1px;
+  }
+}
+
+/* Plot draws its own svg; keep its tooltips readable on the dark theme */
+.chart [aria-label='tip'] {
+  --plot-background: var(--color-bg);
+}

@@ -1,0 +1,10 @@
+# Keep GitHub's language bar about the code. Notebooks hold output, so linguist counts them as ~all of the repo.
+*.ipynb linguist-documentation
+# The paper is writing, not code.
+*.typ linguist-documentation
+# The web UI and its TypeScript are real code, but they should not show up as languages in the bar.
+*.svelte linguist-detectable=false
+*.ts linguist-detectable=false
+# Build scripts and the bibliography are plumbing, not the project.
+Makefile linguist-detectable=false
+*.bib linguist-documentation

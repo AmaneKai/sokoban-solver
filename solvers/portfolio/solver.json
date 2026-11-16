@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio",
+  "solve": "sokosolve",
+  "trace": "sokotrace",
+  "threads": true
+}

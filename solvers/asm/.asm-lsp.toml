@@ -1,0 +1,5 @@
+# asm-lsp config: NASM syntax, x86-64 with AVX2/BMI1 (see sokobot.asm).
+[default_config]
+version = "0.10.0"
+assembler = "nasm"
+instruction_set = "x86-64"

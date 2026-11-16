@@ -1,0 +1,21 @@
+{
+  "name": "sokobot",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "bun scripts/sokobot.ts build",
+    "dev": "bun scripts/sokobot.ts dev",
+    "serve": "bun scripts/sokobot.ts serve",
+    "start": "bun scripts/sokobot.ts start",
+    "solve": "bun scripts/sokobot.ts solve",
+    "bench": "bun scripts/sokobot.ts bench",
+    "clean": "bun scripts/sokobot.ts clean",
+    "typecheck": "bun run --cwd core typecheck && bun run --cwd scripts typecheck",
+    "help": "bun scripts/sokobot.ts help"
+  },
+  "workspaces": [
+    "core",
+    "web",
+    "scripts"
+  ]
+}
