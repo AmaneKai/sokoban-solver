@@ -98,3 +98,7 @@ Only a solver with a `trace` binary can open the Explorer. Right now that is `po
 | `analysis/` | Benchmark runs in `data/`, statistics (`sokostats`), notebooks, and the `graph.py` plots |
 | `paper/` | The project report: Typst source, figures, data, and `main.pdf` |
 | `data/` | Telemetry output. Git ignores it. |
+
+## License
+
+The project is released under the [MIT License](LICENSE). The puzzle files in `maps/` come from their own authors, and the MIT License does not cover them.

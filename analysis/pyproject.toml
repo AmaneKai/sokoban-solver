@@ -3,6 +3,7 @@ name = "sokostats"
 version = "0.1.0"
 description = "Analysis of SokoBot benchmark runs (sokobench CSV files)"
 readme = "README.md"
+license = "MIT"
 requires-python = ">=3.11"
 dependencies = [
     "pandas>=2.2",

@@ -2,6 +2,7 @@
 name = "sokobot-python"
 version = "0.1.0"
 description = "Pure Python Sokoban solver"
+license = "MIT"
 requires-python = ">=3.12"
 dependencies = [
     "numpy>=2.0",
